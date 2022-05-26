@@ -1,0 +1,54 @@
+*{
+        margin: 0;
+        padding: 0;
+}
+
+.myid { 
+
+            width: 100%;
+            height: 100vh;
+            background-image: url('taj-mahal-agra-india-wallpaper.jpg');
+            background-repeat: no-repeat;
+            background-size: 100% 100%;      
+            background-attachment: fixed;   
+}
+
+.myid2{ 
+
+    width: 100%;
+    height: 100vh;
+    background-image: url('prem mandir.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;      
+    background-attachment: fixed;   
+}
+
+.myid3{ 
+
+    width: 100%;
+    height: 100vh;
+    background-image: url('Kedarnath-Photos4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;      
+    background-attachment: fixed;   
+}
+
+.myid4{ 
+
+    width: 100%;
+    height: 100vh;
+    background-image: url('pahalgam.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;      
+    background-attachment: fixed;   
+}
+
+.myid5{ 
+
+    width: 100%;
+    height: 100vh;
+    background-image: url('pangong.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;      
+    background-attachment: fixed;   
+}
